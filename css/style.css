@@ -1912,12 +1912,11 @@ about .image img {
 }
  
 .classes-section .classes-col .class-thumb>img {
-  border-radius: 10px 10px 0 0;
-  min-height: 180px;
-  object-fit: cover;
-  width: 276px;
+    border-radius: 10px 10px 0 0;
+    min-height: 180px;
+    object-fit: cover;
+    width: 273px;
 }
-
  .classes-section {
   padding-top: 80px;
   padding-bottom: 0;
